@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MiramixiStoryteller-Marketplace/static/css/main.7acaea2f.css",
+    "main.js": "/MiramixiStoryteller-Marketplace/static/js/main.d9ac30d1.js",
+    "index.html": "/MiramixiStoryteller-Marketplace/index.html",
+    "main.7acaea2f.css.map": "/MiramixiStoryteller-Marketplace/static/css/main.7acaea2f.css.map",
+    "main.d9ac30d1.js.map": "/MiramixiStoryteller-Marketplace/static/js/main.d9ac30d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.d9ac30d1.js"
+  ]
+}
